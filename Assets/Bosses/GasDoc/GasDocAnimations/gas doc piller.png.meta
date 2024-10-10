@@ -1,0 +1,809 @@
+fileFormatVersion: 2
+guid: f662603b0c5fd364396bcb708128bfb6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gas doc piller_0
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 21
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45982b9c740ec54593d07336d138271
+      internalID: 518575207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 21
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa7acfe5eeb3234694400831dacf2e4
+      internalID: -2031600559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_2
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1
+        width: 23
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7968672ca5b945a4bad955a9ed50ce47
+      internalID: -533474752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_3
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3aa4d75092c2348beeb71e08f7ddc2
+      internalID: 1248160994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1
+        width: 32
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb703f2abb6fb34eb0c87711d38c42b
+      internalID: -563139212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4173fc0d59e36ba4cbb797a9708a9504
+      internalID: 1571438954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_6
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc8db20c13bcb2469b6e2a9061f618a
+      internalID: 557287604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_7
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 32
+        width: 20
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b425f371a2335468b7f6fe6bd53cd8
+      internalID: -1384622893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_8
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f039e764efacc66468c3c1cacb9a29ef
+      internalID: -25952721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_9
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fba4a45b1ad5be45aa9b1ea8160e95b
+      internalID: -1377156291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3fe10c26bbfc347bf4e52c3ba7b0eb
+      internalID: -1559078995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_11
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1
+        width: 38
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36232b7850b6a004986ca6489d92917c
+      internalID: -464338514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_12
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 10
+        width: 13
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cdd1c59e3001942bad0f85f143c4ac
+      internalID: 1746831687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_13
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 11
+        width: 6
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf5827ca36b7c04b89840c7a983a167
+      internalID: -232126832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_14
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1
+        width: 38
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dc3a2acac2a2e45bf10fc9311ed005
+      internalID: 89979017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_15
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eb6da48801de04e87468019bebef4b
+      internalID: -379830263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_16
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1
+        width: 9
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f803e86ad583f49a6d2cb87db2e475
+      internalID: 2073224719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_17
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1
+        width: 6
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dcae1ea5b19954d8b558960d723cb5
+      internalID: 1479495933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 7
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7449c3bfed9bf644e89382fe3d1accef
+      internalID: 1696161168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 14
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a046228dbc383a40afbc6702ca72fb0
+      internalID: 1947401523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4642dc6aa68686e42a24aa54d2c35100
+      internalID: 1110271961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 19
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e91c17f283a3241bf8eb2192a99cc0
+      internalID: 312387822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 19
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add6c37ca6dcf0347aed0cdc03a2c201
+      internalID: 1571478531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 19
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228b28b23a54bcb4c8955871cae08081
+      internalID: -1374681703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_24
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fbf2f4cf87ecd43bf01358573c52fa
+      internalID: -789382798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_25
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7297744a7fce4b64995f911d1b71f496
+      internalID: -170733840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_26
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7640f24fd5c55c43aa15a56f7eb99c0
+      internalID: 1276697068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_27
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6c196a48df7fe4ea853c807a1040c6
+      internalID: 1966879836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_28
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaad30b733e823048840e7751513ef3e
+      internalID: -1548727484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_29
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 3
+        width: 23
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cecc1bf554c134382f3c08c299970b
+      internalID: 389810433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc piller_30
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1
+        width: 67
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee6fd53dbe247419577f4e7d4e767a
+      internalID: -1226342148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gas doc piller_0: 518575207
+      gas doc piller_1: -2031600559
+      gas doc piller_10: -1559078995
+      gas doc piller_11: -464338514
+      gas doc piller_12: 1746831687
+      gas doc piller_13: -232126832
+      gas doc piller_14: 89979017
+      gas doc piller_15: -379830263
+      gas doc piller_16: 2073224719
+      gas doc piller_17: 1479495933
+      gas doc piller_18: 1696161168
+      gas doc piller_19: 1947401523
+      gas doc piller_2: -533474752
+      gas doc piller_20: 1110271961
+      gas doc piller_21: 312387822
+      gas doc piller_22: 1571478531
+      gas doc piller_23: -1374681703
+      gas doc piller_24: -789382798
+      gas doc piller_25: -170733840
+      gas doc piller_26: 1276697068
+      gas doc piller_27: 1966879836
+      gas doc piller_28: -1548727484
+      gas doc piller_29: 389810433
+      gas doc piller_3: 1248160994
+      gas doc piller_30: -1226342148
+      gas doc piller_4: -563139212
+      gas doc piller_5: 1571438954
+      gas doc piller_6: 557287604
+      gas doc piller_7: -1384622893
+      gas doc piller_8: -25952721
+      gas doc piller_9: -1377156291
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

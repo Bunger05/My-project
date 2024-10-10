@@ -1,0 +1,809 @@
+fileFormatVersion: 2
+guid: 960d4b958e4c3f249b8486e63ebcc66f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bone saw dash and swing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a0ffe138997145be535777afbf488
+      internalID: -1538051765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb7e9dfcc211c045849446529a2a447
+      internalID: -939336638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeca4a7b998219499d8f552eea066c8
+      internalID: -704874824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1935dfbc19706384a90b9089fd6f46ef
+      internalID: -180671663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a55e6c7ae2089b458c5252d05a75ebf
+      internalID: 2060583627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c430924fb43fc0643b99757a9131fb83
+      internalID: 269679777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7f8dd7413051d4c8eea70a89e39921
+      internalID: -1739260907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_7
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85cc1fe4be31c64186eb1e140b9c186
+      internalID: -510445598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_8
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860a1e5118e06904b81b3d8cddc5d1da
+      internalID: -310070277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_9
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ebfce3b002b3649ac9e358dd853a00
+      internalID: -301191821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_10
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ab59c355bd9146af94dc4ebdbf173
+      internalID: -540664888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_11
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3046105632eefd143a82d785fdd5f6b9
+      internalID: 798179444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_12
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84ff3aa2688a814a983b550f17364e9
+      internalID: -864856621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_13
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeae9a605a3ca04eafd29819849d5d1
+      internalID: 2032161728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_14
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1bfddc1442df42a1be19ed87d088f
+      internalID: 1275044788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_15
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b073210407a5782438590f170ebc62d1
+      internalID: -1877294256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_16
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2253c90371423854fa1d1c8a405e88c1
+      internalID: -1933039190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_17
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edd763be9cec0b40a856cad5fadddb7
+      internalID: -793851013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_18
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624f0c5686af7dd4d8cf3e47119ea7f0
+      internalID: 649171958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_19
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d5a176d89962748900dd8e9e2dd48c
+      internalID: 881563845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_20
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a9b29226a00a9489aed39bc63dfcf7
+      internalID: 2060443328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_21
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a8117cd89c35247975744a06f80594
+      internalID: 397556209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_22
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79a0c53b0b60e141805858340b0cc3e
+      internalID: 565666192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_23
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df57c25fe8b7cc34184362b029aca6a3
+      internalID: 608988016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_24
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8654004aab8a4ff4aa71021cfff98ee8
+      internalID: 1584524959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_25
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70e959308d91a9428501e70d15e5f12
+      internalID: 1475961377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_26
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76aeab48fe7b1c44ac5567f869f8ef2
+      internalID: 252918726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_27
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19ab88b91cf57b428b75b9f330a50d8
+      internalID: 1264437988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_28
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64716ee5db6fea41b8b309c8327862a
+      internalID: -962756543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_29
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a201f86b715dba24992cc381d669ffdc
+      internalID: -1915277595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone saw dash and swing_30
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 0
+        width: 107
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5698418, y: 0.276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ef87f82b39254429320f3b50f9f0b0
+      internalID: -1611584070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bone saw dash and swing_0: -1538051765
+      bone saw dash and swing_1: -939336638
+      bone saw dash and swing_10: -540664888
+      bone saw dash and swing_11: 798179444
+      bone saw dash and swing_12: -864856621
+      bone saw dash and swing_13: 2032161728
+      bone saw dash and swing_14: 1275044788
+      bone saw dash and swing_15: -1877294256
+      bone saw dash and swing_16: -1933039190
+      bone saw dash and swing_17: -793851013
+      bone saw dash and swing_18: 649171958
+      bone saw dash and swing_19: 881563845
+      bone saw dash and swing_2: -704874824
+      bone saw dash and swing_20: 2060443328
+      bone saw dash and swing_21: 397556209
+      bone saw dash and swing_22: 565666192
+      bone saw dash and swing_23: 608988016
+      bone saw dash and swing_24: 1584524959
+      bone saw dash and swing_25: 1475961377
+      bone saw dash and swing_26: 252918726
+      bone saw dash and swing_27: 1264437988
+      bone saw dash and swing_28: -962756543
+      bone saw dash and swing_29: -1915277595
+      bone saw dash and swing_3: -180671663
+      bone saw dash and swing_30: -1611584070
+      bone saw dash and swing_4: 2060583627
+      bone saw dash and swing_5: 269679777
+      bone saw dash and swing_6: -1739260907
+      bone saw dash and swing_7: -510445598
+      bone saw dash and swing_8: -310070277
+      bone saw dash and swing_9: -301191821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

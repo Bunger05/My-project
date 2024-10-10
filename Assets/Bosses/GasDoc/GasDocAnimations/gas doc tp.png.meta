@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 5a7824b145067c441beb6ffa0723f4da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gas doc tp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772216d3a799fff4ca7edc0d6a08e308
+      internalID: -758300165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c71d9c796d1d4c45b5b26924bbaece0
+      internalID: -1864005927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a0fd02f373c144fa3687c2ecbc4850
+      internalID: 39132459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046103cafb31cdd478eeca80786405fe
+      internalID: -1697898525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df925216a88b8941801893a43a426a0
+      internalID: 385395352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f09fed788bdf74c9456f1bd061a0ca
+      internalID: -1046353702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_6
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd953e9ace26124cbb3b7b99da44ad3
+      internalID: 194713048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75bbf7726559d24ea697de9b63b1488
+      internalID: -592747716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_8
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f171063dd9c1471429402c9c942ac835
+      internalID: 1631713053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_9
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf697eff6fa5e458a957619ec412fa
+      internalID: 221442687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_10
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f09e578b002ee641901451594d3aa16
+      internalID: 1304110915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_11
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240993a5dbabb3e4982ac940f546542c
+      internalID: -383954859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_12
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc93b5311cdb0da4cbbf8918446e1181
+      internalID: 456271978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_13
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a36d84d774ee0944a3303cd156cd026
+      internalID: -722569642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_14
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaabbed218ebce499e706f4e8a94598
+      internalID: -634639509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_15
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d814584d38d114f8896a0b3641c8bc
+      internalID: 1351261444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_16
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868c9027ac8f7be428b5d01e7615e111
+      internalID: 238735199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_17
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addbeb700f08ad446b72d227fe605c44
+      internalID: 757012659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_18
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a6f73d927f95b429e6678e10f4297e
+      internalID: -1033967673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_19
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d8a2bf28f8ca0448e31fff7dbe8ec0
+      internalID: -445406646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas doc tp_20
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2482106, y: 0.1907814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a851345835bc1854abd009f7e8d6816a
+      internalID: 1228443125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gas doc tp_0: -758300165
+      gas doc tp_1: -1864005927
+      gas doc tp_10: 1304110915
+      gas doc tp_11: -383954859
+      gas doc tp_12: 456271978
+      gas doc tp_13: -722569642
+      gas doc tp_14: -634639509
+      gas doc tp_15: 1351261444
+      gas doc tp_16: 238735199
+      gas doc tp_17: 757012659
+      gas doc tp_18: -1033967673
+      gas doc tp_19: -445406646
+      gas doc tp_2: 39132459
+      gas doc tp_20: 1228443125
+      gas doc tp_3: -1697898525
+      gas doc tp_4: 385395352
+      gas doc tp_5: -1046353702
+      gas doc tp_6: 194713048
+      gas doc tp_7: -592747716
+      gas doc tp_8: 1631713053
+      gas doc tp_9: 221442687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
